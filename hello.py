@@ -1,1 +1,3 @@
-hello
+#!/bin/env python
+
+print(hello)
